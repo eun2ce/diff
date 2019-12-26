@@ -1,4 +1,4 @@
-# diff
+# go-diff
 
 File Similarity Evaluation Scheme Using byte or Hash String
 
