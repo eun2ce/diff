@@ -1,4 +1,6 @@
-# diff :: File Similarity Evaluation Scheme Using byte or Hash String
+# diff
+
+File Similarity Evaluation Scheme Using byte or Hash String
 
 ## quick start
 
